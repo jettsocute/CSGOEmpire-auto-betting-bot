@@ -1,16 +1,10 @@
-# CSGOEmpire for Roulette Bot
-Our bot allows you to play roulette automatically. With the Martingale strategy
+# Bot-CSGOEmpire for Roulette
 
-## Affordable at just $6.95!
-* https://payhip.com/b/qzmKB
-* https://payhip.com/b/qzmKB
-* https://payhip.com/b/qzmKB
-
-### Bot Operation Steps
+## Bot Operation Steps
 The bot will always bet on T and place the amount you specify. If it loses, the bot will double the bet until it wins.
 After winning, it will reset to the original amount you specified.
 
-#### How to Use
+### How to Use
 
 1. Open the file `Bot-roulette.exe`.
 
@@ -18,7 +12,7 @@ After winning, it will reset to the original amount you specified.
 
 3. Log in to CSGOEmpire (you do not need to log in again when using the same Chrome profile next time).
 
-4. Make sure Chrome is on the Roulette page (`https://csgoempire.com/roulette`).
+4. Make sure Chrome is on the Roulette page (https://csgoempire.com/roulette).
 
 5. Enter the amount you want to bet (it is recommended to bet only 1% of your total balance).
 
