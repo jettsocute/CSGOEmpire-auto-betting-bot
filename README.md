@@ -2,9 +2,9 @@
 Our bot allows you to play roulette automatically. With the Martingale strategy
 
 ## Affordable at just $6.95!
-[https://payhip.com/b/qzmKB](https://payhip.com/b/qzmKB)
-[https://payhip.com/b/qzmKB](https://payhip.com/b/qzmKB)
-[https://payhip.com/b/qzmKB](https://payhip.com/b/qzmKB)
+https://payhip.com/b/qzmKB
+https://payhip.com/b/qzmKB
+https://payhip.com/b/qzmKB
 
 ### Bot Operation Steps
 The bot will always bet on T and place the amount you specify. If it loses, the bot will double the bet until it wins.
