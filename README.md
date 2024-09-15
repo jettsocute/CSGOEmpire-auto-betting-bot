@@ -1,7 +1,7 @@
 # CSGOEmpire for Roulette Bot
 Our bot allows you to play roulette automatically. With the Martingale strategy
 
-## Affordable at just $6.95!
+## Affordable at just $8.95!
 * https://payhip.com/b/qzmKB
 * https://payhip.com/b/qzmKB
 * https://payhip.com/b/qzmKB
